@@ -4,6 +4,10 @@ body {
   width: 90%;
   margin: 0 auto;
  
+div {
+  border: 1px solid black;
+  padding: 25px;
+  background-color: white;
 
 
 
