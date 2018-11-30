@@ -3,30 +3,21 @@ body {
   background-image: url(https://img-cdn1.thehungryjpeg.com/productimages/1111/738/90/c7a34d6e2769f8b45984182b7b752ff1e7a84f64.jpg)}
   width: 90%;
   margin: 0 auto;
-}
-Released under the MIT license: http://jsbin.mit-license.org
--->
-<meta name="robots" content="noindex">
-    <meta name="description" content="lOGO">
-    <meta name="keywords" content="Flower">
-    <meta name="author" content="Sado Farah">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <title> Liquid Layout </title>
-    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/18th-century" type="text/css"/>
-  
-<style id="jsbin-css">
-h1 { 
-  font-family: '18thCenturyInitialsRegular'; 
-  font-weight: normal; 
-  font-style: normal; 
-}
 
-* {
-  font-family: Arial, Verdana, sans-serif;
-  color: #0a0a09;
-  text-align: center;
-}
-
-body { width:90%;
-       margin: 0 auto;
+ <div id="content">
+    <div id="feature">
+      <p>Feature</p>
+    </div>
+    <div class="article column1">
+      <p>Column One</p>
+    </div>
+    <div class="article column2">
+      <p>Column Two</p>
+    </div>
+    <div class="article column3">
+      <p>Column Three</p>
+    </div>
+  </div>
+  <div id="footer">
+    <p>&copy; Copyright 2011</p>
+  </div>
